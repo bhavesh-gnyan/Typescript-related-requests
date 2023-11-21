@@ -1,0 +1,15 @@
+
+{
+  "name": "typescript-number-chain",
+  "version": "1.0.0",
+  "description": "A TypeScript project for a number chaining function with closure.",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "typescript": "^4.0.0",
+    "ts-jest": "^26.0.0",
+    "jest": "^26.0.0",
+    "@types/jest": "^26.0.0"
+  }
+}
